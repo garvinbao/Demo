@@ -1,0 +1,2 @@
+# Demo
+The demo collection.
