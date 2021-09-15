@@ -1,19 +1,19 @@
 //
-//  NavigationController.m
+//  GVNavigationController.m
 //  CustomPushAnimation
 //
 //  Created by admin on 2021/6/15.
 //
 
-#import "NavigationController.h"
+#import "GVNavigationController.h"
 
 #define kDuration 0.5
 
-@interface NavigationController ()
+@interface GVNavigationController ()
 
 @end
 
-@implementation NavigationController
+@implementation GVNavigationController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

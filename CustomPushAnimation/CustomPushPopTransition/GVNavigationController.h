@@ -1,5 +1,5 @@
 //
-//  NavigationController.h
+//  GVNavigationController.h
 //  CustomPushAnimation
 //
 //  Created by admin on 2021/6/15.
@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface NavigationController : UINavigationController
+@interface GVNavigationController : UINavigationController
 
 @end
 

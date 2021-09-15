@@ -14,7 +14,7 @@
 		848FB92E2678A030002E2BDF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 848FB92D2678A030002E2BDF /* Assets.xcassets */; };
 		848FB9312678A030002E2BDF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 848FB92F2678A030002E2BDF /* LaunchScreen.storyboard */; };
 		848FB9342678A030002E2BDF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 848FB9332678A030002E2BDF /* main.m */; };
-		848FB93D2678A0D3002E2BDF /* NavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 848FB93C2678A0D3002E2BDF /* NavigationController.m */; };
+		848FB93D2678A0D3002E2BDF /* GVNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 848FB93C2678A0D3002E2BDF /* GVNavigationController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,8 +30,8 @@
 		848FB9302678A030002E2BDF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		848FB9322678A030002E2BDF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		848FB9332678A030002E2BDF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		848FB93B2678A0D3002E2BDF /* NavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NavigationController.h; sourceTree = "<group>"; };
-		848FB93C2678A0D3002E2BDF /* NavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NavigationController.m; sourceTree = "<group>"; };
+		848FB93B2678A0D3002E2BDF /* GVNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GVNavigationController.h; sourceTree = "<group>"; };
+		848FB93C2678A0D3002E2BDF /* GVNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GVNavigationController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,8 +68,8 @@
 				848FB9222678A02D002E2BDF /* AppDelegate.m */,
 				848FB9242678A02D002E2BDF /* SceneDelegate.h */,
 				848FB9252678A02D002E2BDF /* SceneDelegate.m */,
-				848FB93B2678A0D3002E2BDF /* NavigationController.h */,
-				848FB93C2678A0D3002E2BDF /* NavigationController.m */,
+				848FB93B2678A0D3002E2BDF /* GVNavigationController.h */,
+				848FB93C2678A0D3002E2BDF /* GVNavigationController.m */,
 				848FB9272678A02D002E2BDF /* ViewController.h */,
 				848FB9282678A02D002E2BDF /* ViewController.m */,
 				848FB92A2678A02D002E2BDF /* Main.storyboard */,
@@ -152,7 +152,7 @@
 			files = (
 				848FB9292678A02D002E2BDF /* ViewController.m in Sources */,
 				848FB9232678A02D002E2BDF /* AppDelegate.m in Sources */,
-				848FB93D2678A0D3002E2BDF /* NavigationController.m in Sources */,
+				848FB93D2678A0D3002E2BDF /* GVNavigationController.m in Sources */,
 				848FB9342678A030002E2BDF /* main.m in Sources */,
 				848FB9262678A02D002E2BDF /* SceneDelegate.m in Sources */,
 			);
